@@ -8,11 +8,19 @@ This repository provides structured overviews, technical insights, and potential
 
 ## 🚀 Products
 
+### 🤝 MatchMaker GME
+
+A platform built to facilitate intelligent matching and engagement across users or entities.
+
+👉 [View Documentation](./MatchMakerGME.md)
+
+---
+
 ### 🧼 ScrubHub App
 
 A service-based platform designed to streamline cleaning service workflows and user interactions.
 
-👉 [View Documentation](./ScrubHub_APP.md)
+👉 [View Documentation](./ScrubHubAPP.md)
 
 ---
 
@@ -24,13 +32,6 @@ A system focused on ranking, evaluating, and analyzing research data using struc
 
 ---
 
-### 🤝 MatchMaker GME
-
-A platform built to facilitate intelligent matching and engagement across users or entities.
-
-👉 [View Documentation](./MatchMakerGME.md)
-
----
 
 ## 📌 Notes
 
