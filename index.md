@@ -12,7 +12,7 @@ This repository provides structured overviews, technical insights, and potential
 
 A service-based platform designed to streamline cleaning service workflows and user interactions.
 
-👉 [View Documentation](./Scrubub_APP.md)
+👉 [View Documentation](./ScrubHub_APP.md)
 
 ---
 
